@@ -25,4 +25,8 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degisti
 ## License
 
 
+<<<<<<< Updated upstream
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+[MIT](https://choosealicense.com/licenses/mit/)
+>>>>>>> Stashed changes
